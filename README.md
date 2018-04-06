@@ -2,7 +2,7 @@
 fastlane 自动化更新私有库工具
 
 - 一个帮助我们自动化更新私有库的工具
-- 与[iOS 组件化开发（四）：fastlane实现pod自动化](https://juejin.im/post/5ac6eb6351882555731c5e9e)配合使用，品味更佳～
+- 与[iOS 组件化开发（四）：fastlane实现pod自动化](https://juejin.im/post/5ac6eb6351882555731c5e9e)配合使用，味道更佳～
 
 ## 使用
 
