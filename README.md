@@ -5,7 +5,7 @@ fastlane 自动化更新私有库工具
 
 ## 使用
 
-1. 将fastlane拷贝到你的本地仓库的根目录
+1. 将fastlane拷贝到你的本地仓库的根目录
 2. 打开Fastfile，找到pod_push并进行修改
 
 ```
